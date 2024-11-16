@@ -23,13 +23,15 @@ This project facilitates decentralized image upload and sharing on the blockchai
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/dApp_FileShare.git
-2. Install Dependencies for Hardhat
+
+### 2. Install Dependencies for Hardhat
 Navigate to the root directory:
 ```bash
 Copy code
 cd client
 npm install
-3. Compile the Smart Contract
+
+### 3. Compile the Smart Contract
 ```bash
 Copy code
 npx hardhat compile
